@@ -1,0 +1,39 @@
+{
+    "_default": {
+        "1": {
+            "name": "Patrick",
+            "score": 10,
+            "roles": [
+                "Expert"
+            ]
+        },
+        "2": {
+            "name": "Julie",
+            "score": 50,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "3": {
+            "name": "Paul",
+            "score": 120,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "4": {
+            "name": "Maxime",
+            "score": 70,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "6": {
+            "name": "Pierre",
+            "score": 120,
+            "roles": [
+                "Senior"
+            ]
+        }
+    }
+}
